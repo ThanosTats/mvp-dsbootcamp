@@ -1,2 +1,2 @@
 # mvp-dsbootcamp
-Yellow team repo
+Yellow team repository for the MVP
