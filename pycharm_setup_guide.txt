@@ -1,0 +1,42 @@
+
+Intrstruction written by Thanos Tatsiso
+
+
+1)	Download PyCharm(community version)
+
+https://www.jetbrains.com/pycharm/download/#section=mac
+
+
+2)	Clone the repo to your local machine
+
+cd Documents
+mkdir mvp-dsbootcamp
+cd mvp-dsbootcamp
+git clone https://github.com/ThanosTats/mvp-dsbootcamp.git
+
+3)	Open the project folder with PyCharm
+
+
+4)	Create your own branch(e.g <user>-<task>)
+
+
+5)	Develop the code and commit the changes
+
+
+6)	Then push the changes
+
+
+7)	Provide the token for authentication to GitHub
+
+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
+
+
+
+8)	Run the code on CP4D, test it and if is working fine raise a pull request on GitHub between your branch and master
+
+
+
+
+9)	Merge with master
+
+
