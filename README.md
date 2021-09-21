@@ -60,11 +60,10 @@ https://www.jetbrains.com/pycharm/download/#section=mac
 
 ## Usage
 
-
-2. Create your Feature Branch 
-3. Commit your Changes 
-4. Push to the Branch by generating a Token on GitHub
-5. Open a Pull Request
+1. Create your Feature Branch 
+2. Commit your Changes 
+3. Push to the Branch by generating a Token on GitHub
+4. Open a Pull Request
 
 
 
