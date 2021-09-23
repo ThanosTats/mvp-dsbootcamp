@@ -61,9 +61,24 @@ https://www.jetbrains.com/pycharm/download/#section=mac
 ## Usage
 
 1. Create your Feature Branch 
+   ```sh
+   git checkout -b <feature-branch>
+   ```
 2. Commit your Changes 
-3. Push to the Branch by generating a Token on GitHub
-4. Open a Pull Request
+   ```sh
+   git add <files>
+   ```
+3. Commit your Changes
+   ```sh
+   git commit -m "message"
+   ```
+4. Push to the Branch by generating a Token on GitHub
+   ```sh
+   git push -u origin <feature-branch>
+   ```
+_*When prompt add your GitHub account username and in the password gap enter the generated token*_
+
+5. Open a Pull Request
 
 
 
